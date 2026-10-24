@@ -1,0 +1,23 @@
+[
+  {
+    "name": "奶油白",
+    "bg_color": "#F7F4EF",
+    "card_color": "#FFFFFF",
+    "text_color": "#2F2A26",
+    "accent_color": "#B98A5B"
+  },
+  {
+    "name": "深夜蓝",
+    "bg_color": "#152238",
+    "card_color": "#1F3150",
+    "text_color": "#F2F5F9",
+    "accent_color": "#7FB3D5"
+  },
+  {
+    "name": "苔藓绿",
+    "bg_color": "#E7EDE3",
+    "card_color": "#F7FAF5",
+    "text_color": "#26352A",
+    "accent_color": "#6D8B74"
+  }
+]

@@ -1,3 +1,4 @@
+import json
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 
@@ -93,3 +94,6 @@ def generate_card(
 
     image.save(output_path)
     return output_path
+def load_templates(path="templates.json"):
+    with open(path, "r", encoding="utf-8") as file:
+        return json.load(file)
